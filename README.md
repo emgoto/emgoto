@@ -2,9 +2,9 @@
 
 Welcome to my Github profile. You can also find me elsewhere on the web:
 
-* 👩‍💻 DEV [@emma](https://www.dev.to)
-* 📖 Blog [emgoto.com](https://www.emgoto.com)
 * 🐦 Twitter [@emma_goto](https://www.twitter.com/emma_goto)
+* 📖 Programming blog [emgoto.com](https://www.emgoto.com)
+* 🗼 Japan blog [japango.to](https://www.japango.to)
 
 #### Notable repositories
 The code for my blog is open source and is available to check out [here](https://github.com/emgoto/emgoto.com).
