@@ -1,10 +1,11 @@
 ### Hello world!
 
-Welcome to my Github profile. You can also find me on the web at my blog 📖 [emgoto.com](https://www.emgoto.com/).
+I live in Tokyo 🗼 and work remotely as a senior frontend software engineer. For fun, I like to hike, and contribute to [Hardcover](http://hardcover.app/), a (soon to be open-source) alternative to Goodreads.
 
-#### Notable repositories
-I've also created three Trello Power-Ups. They're installed on over ~50,000 Trello boards and the code are available to peruse (at your own risk!) I no longer maintain them so feel free to re-use the code for your own purposes.
+You can also find me on the web at: 
 
-* [Streak - habit tracker](https://github.com/emgoto/streak)
-* [SLAs for Trello](https://github.com/emgoto/trello-sla)
-* [Gaming Backlog](https://github.com/emgoto/gaming-backlog)
+- Blog 📖 [emgoto.com](https://www.emgoto.com/).
+- Instagram 📷 [emmago.to](https://www.instagram.com/emmago.to]
+- Bluesky 🦋 [@emgoto.com](https://bsky.app/profile/emgoto.com)
+- Hardcover 📚 [@emma](https://hardcover.app/@emma/)
+
