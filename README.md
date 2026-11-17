@@ -1,6 +1,6 @@
 ### Hello world!
 
-I live in Tokyo 🗼 and work remotely as a senior frontend software engineer. For fun, I like to hike, and contribute to [Hardcover](http://hardcover.app/), a (soon to be open-source) alternative to Goodreads.
+I live in Tokyo 🗼 and work remotely as a senior frontend software engineer. For fun, I like to hike, and contribute to [Hardcover](http://hardcover.app/), an alternative to Goodreads.
 
 You can also find me on the web at: 
 
